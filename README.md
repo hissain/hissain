@@ -8,7 +8,7 @@ My technical expertise includes OOP, Android (Java, Kotlin), iOS (Swift, Objecti
 
 My special interests include Technological Innovation, Human Machine Interaction, Information Theory, Astronomy, Probability, Theory of Relativity, Philosophy of Science, Piano, Guitar, Poetry. Additionally, I have study on Critical Thinking and on How to make valid argumentation.
 
-I values the passion of problem-solving minds and solely believes that Software Engineering is the profession that suits him best. I am always eager to learn and grow in my field, and is committed to delivering high-quality solutions to his clients and stakeholders.
+I values the passion of problem-solving minds and solely believes that Software Engineering is the profession that suits me best. I am always eager to learn and grow in my field, and is committed to delivering high-quality solutions to his clients and stakeholders. I am open to engage in discussing any technological matters within my scope with interested people to share and acquire subject matter knowledge.
 
 ### Stackoverflow
 
