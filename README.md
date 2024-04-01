@@ -1,6 +1,6 @@
 ### About Me
 
-I am an accomplished Associate Architect with over 13 years of experience in Mobile and Wearables Software Development. With a deep understanding of the challenges inherent in developing performant, robust, testable, and maintainable applications—from requirement analysis to architecture, design, development, and maintenance—I am a valuable asset to any organization. My experience includes working on Samsung Health for iOS, an application boasting over 6 million users and approximately 160K DAU on the App Store market, with a global rating of 4.5. Between 2021 and 2024, 
+I am an accomplished Associate Architect with over 13 years of experience in Mobile and Wearables Software Development. With a deep understanding of the challenges inherent in developing performant, robust, testable, and maintainable applications, from requirement analysis to architecture, design, development, and maintenance, I am confident in my ability to lead software development and commercialization for any organization. My experience includes working on Samsung Health for iOS, an application boasting over 6 million users and approximately 160K DAU on the App Store market, with a global rating of 4.5. Between 2021 and 2024, 
 
 I achieved six patent applications granted by Samsung SIPMS, currently in the process of being published in USPTO; among them, one patent has already been published in USPTO, WIPO, and KR. 
 
