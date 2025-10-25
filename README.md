@@ -1,14 +1,18 @@
 ### About Me
 
-I am an accomplished Associate Architect with over 13 years of experience in Mobile and Wearables Software Development. With a deep understanding of the challenges inherent in developing performant, robust, testable, and maintainable applications, from requirement analysis to architecture, design, development, and maintenance, I am confident in my ability to lead software development and commercialization for any organization. My experience includes working on Samsung Health for iOS, an application boasting over 6 million users and approximately 160K DAU on the App Store market, with a global rating of 4.5. Between 2021 and 2024, 
+I am an accomplished Associate Architect and currently Assistant Principal Engineer at Samsung Electronics, with over 14 years of experience in Mobile and Wearables Software Development and Innovation. I have a deep understanding of building performant, robust, and maintainable systems - covering requirement analysis, architecture, design, implementation, and long-term maintenance.
 
-I achieved seven patent applications granted by Samsung Patent Office, currently in the process of being published in USPTO; one of which has already been granted and published in USPTO, WIPO, CN, and KR. 
+I contributed significantly to Samsung Health for iOS, an app with 6M+ users, 160K+ daily active users, and a 4.5-star global rating on the App Store. Between 2021 and 2023, I filed seven patent applications through Samsung SIPMS, one of which has already been granted in WIPO, US, CN, and KR, while others are under USPTO publication.
 
-My technical expertise encompasses Machine Learning, C/C++, OOP, Android (Java, Kotlin), iOS (Swift, Objective-C), Xcode, Version Control Systems, System Design, Application Architecture, Development Processes, Wearable & Hearable Technology. Additionally, I have experience in Tizen app development and Windows app development. Currently, I am engaged in Samsung Earbuds device development on RTOS, specifically in music streaming over BT classic and LE Audio, as well as in ballistocardiogram signal processing for Stress score generation. 
+Currently, I lead the Health Sensing Modalities Team, focusing on pioneering AI-driven health sensing modalities and on-device intelligence for wearables. My recent contribution includes developing a stress detection algorithm using accelerometer data from Samsung earbuds optimized for RTOS, co-developing the world’s first non-invasive wearable sweat sensor for cholesterol and glucose detection in collaboration with Samsung Research America (SRA) and Caltech University, and working jointly with SRA and MIT on Dim Light Melatonin Onset (DLMO) estimation using wearable light sensor data.
 
-My special interests include Technological Innovation, Human-Machine Interaction, Information Theory, Astronomy, Probability, Theory of Relativity, Philosophy of Science, Piano, Guitar, and Poetry. Furthermore, I have pursued studies in Critical Thinking and How to Make Valid Argumentation. 
+I have also led the development of on-device part of foundation models for hypertension and premature ventricular contraction (PVC) detection from raw PPG sensor data, enabling passive, real-time health monitoring in wearable form factors jointly with Samsung Research America, Digital Health Team. My team further conducted an IRB-approved clinical study focused on hot flash detection among middle-aged women.
 
-I value the passion of problem-solving minds and firmly believe that Software Engineering is the profession that suits me best. I am always eager to learn and grow in my field and am committed to delivering high-quality solutions to my clients and stakeholders. I am open to engaging in discussions on any technological matters within my scope with interested individuals to share and acquire subject matter knowledge.
+My technical expertise covers Digital Health, Android and iOS Mobile app development, Wearables, System Design, Application Architecture, Health Sensing Modalities, and Bluetooth and BLE, with additional experience in Tizen and Windows app development.
+
+My broader interests include AI, Technological Innovation, Human-Machine Interaction, Information Theory, Astronomy, the Theory of Relativity, and the Philosophy of Science. I also enjoy playing piano and guitar and writing poetry.
+
+I value critical thinking, curiosity, and purpose-driven innovation. I believe Software Engineering is not just a profession but a way to create meaningful impact - solving real life problems and contributing to human well-being through thoughtful technology.
 
 ### Stackoverflow
 
